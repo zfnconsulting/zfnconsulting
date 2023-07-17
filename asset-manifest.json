@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zfnConsulting/static/css/main.5e11ecd2.css",
+    "main.js": "/zfnConsulting/static/js/main.ae900627.js",
+    "index.html": "/zfnConsulting/index.html",
+    "main.5e11ecd2.css.map": "/zfnConsulting/static/css/main.5e11ecd2.css.map",
+    "main.ae900627.js.map": "/zfnConsulting/static/js/main.ae900627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e11ecd2.css",
+    "static/js/main.ae900627.js"
+  ]
+}
