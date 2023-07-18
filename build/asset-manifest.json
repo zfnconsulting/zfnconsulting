@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zfnConsulting/static/css/main.5e11ecd2.css",
-    "main.js": "/zfnConsulting/static/js/main.ae900627.js",
-    "index.html": "/zfnConsulting/index.html",
-    "main.5e11ecd2.css.map": "/zfnConsulting/static/css/main.5e11ecd2.css.map",
-    "main.ae900627.js.map": "/zfnConsulting/static/js/main.ae900627.js.map"
+    "main.css": "/zfnconsulting/static/css/main.5e11ecd2.css",
+    "main.js": "/zfnconsulting/static/js/main.68bbdf55.js",
+    "index.html": "/zfnconsulting/index.html",
+    "main.5e11ecd2.css.map": "/zfnconsulting/static/css/main.5e11ecd2.css.map",
+    "main.68bbdf55.js.map": "/zfnconsulting/static/js/main.68bbdf55.js.map"
   },
   "entrypoints": [
     "static/css/main.5e11ecd2.css",
-    "static/js/main.ae900627.js"
+    "static/js/main.68bbdf55.js"
   ]
 }
